@@ -6,7 +6,7 @@ Built using modern web technologies to demonstrate authentication, CRUD operatio
 ---
 
 ## 🚀 Live Demo
-> *(Add your deployed link here if available)*
+> *(yet to be added)*
 https://your-deployed-link.com
 
 ---
